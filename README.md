@@ -13,7 +13,7 @@
 	django-admin startproject <nome do projeto>
 	seguindo a documentação do django, é necessario que teste antes usando:
 	Python manage.py runserver (comando para iniciar o servidor de testes);
-###  em seguida vamos iniciar a criação do app(em um projeto pode-se ter varios apps):
+###  em seguida vamos iniciar a criação do app (em um projeto pode-se ter varios apps):
 	 python manage.py startapp <nome do app>
 - logo em seguida é obrigatorio colocar o nome do app dentro dos INSTALLED_APPS em settings.py
 ### INSTALLED_APPS = [
@@ -29,3 +29,4 @@
 	'crispy_forms', <- (nome das instalações que é obrigatorio por aqui)
 	'crispy_bootstrap5',<- (nome das instalações que é obrigatorio por aqui )
 ]
+### - Segundo-passo : Configurações dos Apps
