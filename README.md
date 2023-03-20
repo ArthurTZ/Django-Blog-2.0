@@ -38,6 +38,11 @@ Antes de começar, certifique-se de que você tenha os seguintes requisitos inst
 ### Segundo-passo : Configurações dos Apps:
 - agora começa o inicio dos Apps
 ### Crie um novo aplicativo Django usando o comando:
-python manage.py startapp
-
-
+	python manage.py startapp
+### em seguida execute os seguintes passos:
+	1° - Crie um novo modelo para o seu aplicativo no arquivo models.py.
+	2° - Defina as rotas do seu app no arquivo urls.py.
+	3° - Adicione seu aplicativo à lista de aplicativos instalados no arquivo settings.py.
+	
+## Feito todos os passos acima, ja é o suficiente para começar um novo app de sua preferencia!	
+	
