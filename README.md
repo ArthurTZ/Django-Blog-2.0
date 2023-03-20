@@ -1,5 +1,11 @@
 # Django-Blog
 
+### Pré-requisitos
+Antes de começar, certifique-se de que você tenha os seguintes requisitos instalados em seu sistema:
+- Python (versão 3 ou superior)
+- pip (gerenciador de pacotes do Python)
+- confira o arquivo (requirements.txt)
+- 
 ## Segue-se passo a passo para se criar um blog simples com validação de usuario
 - Nesse projeto utilizamos templates prontos de bootstrap5 para facilitar o processo de criação e com o foco principal no back-end
 - Links utilizados: https://getbootstrap.com/,
@@ -29,4 +35,9 @@
 	'crispy_forms', <- (nome das instalações que é obrigatorio por aqui)
 	'crispy_bootstrap5',<- (nome das instalações que é obrigatorio por aqui )
 ]
-### - Segundo-passo : Configurações dos Apps
+### Segundo-passo : Configurações dos Apps:
+- agora começa o inicio dos Apps
+### Crie um novo aplicativo Django usando o comando:
+python manage.py startapp
+
+
