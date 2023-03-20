@@ -12,13 +12,13 @@
 - instalações: esta no requirements (django,django-crispy-forms,django-crispy-forms-bootstrap5)
 
 Inicio: primeiro comando para iniciar:
-	- django-admin startproject <nome do projeto>
+- django-admin startproject <nome do projeto>
 - seguindo a documentação do django, é necessario que teste antes usando:
-	- Python manage.py runserver (comando para iniciar o servidor de testes);
+- Python manage.py runserver (comando para iniciar o servidor de testes);
 - em seguida vamos iniciar a criação do app(em um projeto pode-se ter varios apps):
-		- python manage.py startapp <nome do app>
+	- python manage.py startapp <nome do app>
 - logo em seguida é obrigatorio colocar o nome do app dentro dos INSTALLED_APPS em settings.py
-INSTALLED_APPS = [
+- INSTALLED_APPS = [
 	'django.contrib.admin',
 	'django.contrib.auth',
 	'django.contrib.contenttypes',
