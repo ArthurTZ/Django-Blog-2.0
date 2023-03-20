@@ -7,7 +7,7 @@
 - Documentação oficial: https://docs.djangoproject.com/en/4.1/ 	
 
 - Primeiro passo: Instalação e configuração do projeto
-- instalações: esta no requirements (django,django-crispy-forms,django-crispy-forms-bootstrap5)
+- instalações: esta no requirements (requirements.txt)
 
 Inicio: primeiro comando para iniciar:
 - django-admin startproject <nome do projeto>
