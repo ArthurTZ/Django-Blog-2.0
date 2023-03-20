@@ -2,8 +2,9 @@
 
 ## Seguimos o passo a passo para se criar um blog simples com validação de usuario
 - Nesse projeto utilizamos templates prontos de bootstrap5 para facilitar o processo de criação e com o foco principal no back-end
-- Links utilizados: https://getbootstrap.com/,[ niceadmin do bootstrap5 facilita muito o front- (https://bootstrapmade.com/nice-admin-bootstrap-admin-html-template/),  -- Documentação oficial: https://docs.djangoproject.com/en/4.1/
--
+- Links utilizados: https://getbootstrap.com/,
+- niceadmin do bootstrap5 facilita muito o front -(https://bootstrapmade.com/nice-admin-bootstrap-admin-html-template/)
+- Documentação oficial: https://docs.djangoproject.com/en/4.1/ 	
 
 - Primeiro passo: Instalação e configuração do projeto
 - instalações: esta no requirements (django,django-crispy-forms,django-crispy-forms-bootstrap5)
