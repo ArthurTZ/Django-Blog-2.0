@@ -9,7 +9,7 @@
 - Primeiro passo: Instalação e configuração do projeto
 - instalações: esta no requirements (requirements.txt)
 
-Inicio: primeiro comando para iniciar:
+### Inicio: primeiro comando para iniciar:
 	### django-admin startproject <nome do projeto>
 	seguindo a documentação do django, é necessario que teste antes usando:
 		### Python manage.py runserver (comando para iniciar o servidor de testes);
