@@ -27,5 +27,5 @@
 	'django_project', <- (nome do projeto)
 	'users', <- (nome do app)
 	'crispy_forms', <- (nome das instalações que é obrigatorio por aqui)
-	'crispy_bootstrap5',<- (nome das instalações que é obrigatorio por aqui ) \n
+	'crispy_bootstrap5',<- (nome das instalações que é obrigatorio por aqui )
 ]
