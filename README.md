@@ -15,7 +15,7 @@ Inicio: primeiro comando para iniciar:
 - em seguida vamos iniciar a criação do app(em um projeto pode-se ter varios apps):
 	- python manage.py startapp <nome do app>
 - logo em seguida é obrigatorio colocar o nome do app dentro dos INSTALLED_APPS em settings.py
-- INSTALLED_APPS = [
+### INSTALLED_APPS = [
 	'django.contrib.admin',
 	'django.contrib.auth',
 	'django.contrib.contenttypes',
